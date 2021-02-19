@@ -22,3 +22,4 @@ The purpose of this analysis is to to create a binary classifier that predicts t
 - For the third optimization, I added a third hidden layer and increased the amount of neurons for the first two layers
 - I was not able to increase the model performance to the 75% target.
 - For the first optimization, I dropped the "organization" column. The model statistics are as follows:
+![]resources/nn1.png
